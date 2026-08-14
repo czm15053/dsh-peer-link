@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+
+# 构建产物
+lib/
+
+# 日志
+*.log
+
+# 系统
+.DS_Store
+
+# 测试临时文件
+.tmp/
